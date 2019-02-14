@@ -2,6 +2,7 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2018-12-16T22:24:19Z" name="Suite" finished-at="2018-12-16T22:26:10Z" duration-ms="111201">
     <groups>
     </groups>
@@ -10,6 +11,16 @@
         <test-method is-config="true" signature="setUp()[pri:0, instance:com.makemytrip.qa.testcases.MailBoxPageTest@3bd82cf5]" started-at="2018-12-16T22:24:19Z" name="setUp" finished-at="2018-12-16T22:24:54Z" duration-ms="34766" status="PASS">
         </test-method>
         <test-method signature="loginTest()[pri:1, instance:com.makemytrip.qa.testcases.MailBoxPageTest@3bd82cf5]" started-at="2018-12-16T22:24:54Z" name="loginTest" finished-at="2018-12-16T22:26:10Z" duration-ms="76358" status="PASS">
+=======
+  <suite started-at="2018-12-14T19:35:14Z" name="Suite" finished-at="2018-12-14T19:35:52Z" duration-ms="37590">
+    <groups>
+    </groups>
+    <test started-at="2018-12-14T19:35:14Z" name="Test" finished-at="2018-12-14T19:35:52Z" duration-ms="37590">
+      <class name="com.makemytrip.qa.testcases.MailBoxPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.makemytrip.qa.testcases.MailBoxPageTest@7dcf94f8]" started-at="2018-12-14T19:35:14Z" name="setUp" finished-at="2018-12-14T19:35:23Z" duration-ms="8665" status="PASS">
+        </test-method>
+        <test-method signature="loginTest()[pri:1, instance:com.makemytrip.qa.testcases.MailBoxPageTest@7dcf94f8]" started-at="2018-12-14T19:35:23Z" name="loginTest" finished-at="2018-12-14T19:35:52Z" duration-ms="28899" status="PASS">
+>>>>>>> b8011b4eaf6b3f708ac0832bbe6be89bc360449e
         </test-method>
       </class>
     </test>
